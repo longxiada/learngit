@@ -5,6 +5,7 @@ chang One
 change two
 Creating a new branch is quick.
 <<<<<<< HEAD
+<<<<<<< HEAD
 Creating a new branch is quick AND simple.
 Creating a new branch is quick & simple.
 Creating a new branch is quick &&&& simple.
@@ -12,3 +13,7 @@ Creating a new branch is quick &&&& simple.
 Creating a new branch is quick AND simple.
 >>>>>>> featurel
 111111
+=======
+Creating a new branch is quick AND simple.
+Today id Friday
+>>>>>>> featurel
