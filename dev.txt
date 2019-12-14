@@ -8,3 +8,4 @@ text 2019-12-09 09:57
 dev  2019-12-09 10:19
 D:\gitText\learngit
 >>>>>>> 8a1c0766ce8c712f3a528de5b05b98055f1ca5b8
+8a1c0766ce8c712f3a528de5b05b98055f1ca5b8
