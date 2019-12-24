@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-D:\Git\learngit
-=======
+
 123
 text 2019-12-09 09:46
 text 2019-12-09 09:52
 text 2019-12-09 09:57
 dev  2019-12-09 10:19
-D:\gitText\learngit
-D:\Git\learngit
+
 
